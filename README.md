@@ -1,3 +1,14 @@
+# 🏠 Real Estate Price Prediction
+
+> Machine learning project for predicting real estate prices using Python and regression models.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+---
+
+## 📌 Project Overview
 # Real Estate Price Prediction
 
 Machine learning project for predicting real estate prices using Python and regression models.
